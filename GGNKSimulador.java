@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class GG1KSimulador {
+public class GGNKSimulador {
     // ---------------- Gerador Congruente Linear ----------------
     static class LCG {
         long a, c, m, seed, usados, limite;
